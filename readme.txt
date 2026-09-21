@@ -4,7 +4,7 @@ This repository contains only the **static build** generated with **Angular 20**
 
 It is deployed directly on **GitHub Pages** at:
 
-👉 https://reda2do.github.io
+👉 https://redabensaad.github.io/profile
 
 ## Main Features
 - ⚡ Framework: **Angular 20**
